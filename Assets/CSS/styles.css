@@ -1,24 +1,22 @@
 body {
-    margin: 0;
     text-align: center;
-}
-.month {
     background-color: #EAF6F6;
-    height: 150px;
-    position: relative;
 }
 
-.in {
-    position: absolute;
-    top: 30%;
+.mnth {
+    margin: 5px;
+    padding: 3px;
+    box-shadow: 5px;
 }
 
-.bun {
-    position: absolute;
-    top: 50%;
+.btn {
+    margin: 5px;
+    padding: 3px;
+    box-shadow: 5px;
 }
 
 .rst {
-    position: absolute;
-    top: 70%;
+    margin: 5px;
+    padding: 3px;
+    box-shadow: 5px;
 }
